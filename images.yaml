@@ -1,3 +1,4 @@
-nattertool/check:latest: registry.cn-hangzhou.aliyuncs.com/l-x/natter_check
-nattertool/natter:latest: registry.cn-hangzhou.aliyuncs.com/l-x/natter
-tailscale/tailscale:latest: registry.cn-hangzhou.aliyuncs.com/l-x/tailscale
+#nattertool/check:latest: registry.cn-hangzhou.aliyuncs.com/l-x/natter_check
+#nattertool/natter:latest: registry.cn-hangzhou.aliyuncs.com/l-x/natter
+#tailscale/tailscale:latest: registry.cn-hangzhou.aliyuncs.com/l-x/tailscale
+finab/bark-server: registry.cn-hangzhou.aliyuncs.com/l-x/bark-server
