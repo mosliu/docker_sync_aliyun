@@ -1,4 +1,11 @@
-#nattertool/check:latest: registry.cn-hangzhou.aliyuncs.com/l-x/natter_check
-#nattertool/natter:latest: registry.cn-hangzhou.aliyuncs.com/l-x/natter
-#tailscale/tailscale:latest: registry.cn-hangzhou.aliyuncs.com/l-x/tailscale
-finab/bark-server: registry.cn-hangzhou.aliyuncs.com/l-x/bark-server
+# nattertool/check:latest: registry.cn-hangzhou.aliyuncs.com/l-x/natter_check
+# nattertool/natter:latest: registry.cn-hangzhou.aliyuncs.com/l-x/natter
+# tailscale/tailscale:latest: registry.cn-hangzhou.aliyuncs.com/l-x/tailscale
+# finab/bark-server: registry.cn-hangzhou.aliyuncs.com/l-x/bark-server
+easychen/botchan:20231010161621: registry.cn-hangzhou.aliyuncs.com/mosliu/botchan:20231010161621
+ghcr.io/xmdhs/clash2sfa: registry.cn-hangzhou.aliyuncs.com/mosliu/clash2sfa
+xavierniu/cloudreve: registry.cn-hangzhou.aliyuncs.com/mosliu/cloudreve
+zouyq/derper: registry.cn-hangzhou.aliyuncs.com/mosliu/derper
+emqx/emqx:5.0.4: registry.cn-hangzhou.aliyuncs.com/mosliu/emqx:5.0.4
+gotify/server: registry.cn-hangzhou.aliyuncs.com/mosliu/gotify/server
+
