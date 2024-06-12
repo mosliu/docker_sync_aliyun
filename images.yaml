@@ -2,10 +2,20 @@
 # nattertool/natter:latest: registry.cn-hangzhou.aliyuncs.com/l-x/natter
 # tailscale/tailscale:latest: registry.cn-hangzhou.aliyuncs.com/l-x/tailscale
 # finab/bark-server: registry.cn-hangzhou.aliyuncs.com/l-x/bark-server
-easychen/botchan:20231010161621: registry.cn-hangzhou.aliyuncs.com/mosliu/botchan:20231010161621
-ghcr.io/xmdhs/clash2sfa: registry.cn-hangzhou.aliyuncs.com/mosliu/clash2sfa
-xavierniu/cloudreve: registry.cn-hangzhou.aliyuncs.com/mosliu/cloudreve
-zouyq/derper: registry.cn-hangzhou.aliyuncs.com/mosliu/derper
-emqx/emqx:5.0.4: registry.cn-hangzhou.aliyuncs.com/mosliu/emqx:5.0.4
-gotify/server: registry.cn-hangzhou.aliyuncs.com/mosliu/gotify/server
+# easychen/botchan:20231010161621: registry.cn-hangzhou.aliyuncs.com/mosliu/botchan:20231010161621
+# ghcr.io/xmdhs/clash2sfa: registry.cn-hangzhou.aliyuncs.com/mosliu/clash2sfa
+# xavierniu/cloudreve: registry.cn-hangzhou.aliyuncs.com/mosliu/cloudreve
+# zouyq/derper: registry.cn-hangzhou.aliyuncs.com/mosliu/derper
+# emqx/emqx:5.0.4: registry.cn-hangzhou.aliyuncs.com/mosliu/emqx:5.0.4
+gotify/server: registry.cn-hangzhou.aliyuncs.com/mosliu/gotify-server
+svenstaro/miniserve: registry.cn-hangzhou.aliyuncs.com/mosliu/miniserve
+machengim/oasis: registry.cn-hangzhou.aliyuncs.com/mosliu/oasis
+tznb/onenav_extend: registry.cn-hangzhou.aliyuncs.com/mosliu/onenav_extend
+php:7.4-fpm-alpine: registry.cn-hangzhou.aliyuncs.com/mosliu/php
+drakkan/sftpgo:v2.4-alpine: registry.cn-hangzhou.aliyuncs.com/mosliu/sftpgo
+b3log/siyuan:latest: registry.cn-hangzhou.aliyuncs.com/mosliu/siyuan
+vaultwarden/server: registry.cn-hangzhou.aliyuncs.com/mosliu/vaultwarden-server
+logicjake/webmonitor: registry.cn-hangzhou.aliyuncs.com/mosliu/webmonitor
+
+
 
