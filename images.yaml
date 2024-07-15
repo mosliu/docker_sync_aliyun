@@ -19,6 +19,6 @@
 # whyour/qinglong: registry.cn-hangzhou.aliyuncs.com/mosliu/qinglong
 # redis:latest: registry.cn-hangzhou.aliyuncs.com/mosliu/redis
 # mysql:8.2.0: registry.cn-hangzhou.aliyuncs.com/mosliu/mysql
-martialbe/one-api:latest: registry.cn-hangzhou.aliyuncs.com/mosliu/one-api
+martialbe/one-api: registry.cn-hangzhou.aliyuncs.com/mosliu/one-api
 
 
