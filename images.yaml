@@ -17,8 +17,8 @@
 # vaultwarden/server: registry.cn-hangzhou.aliyuncs.com/mosliu/vaultwarden-server
 # logicjake/webmonitor: registry.cn-hangzhou.aliyuncs.com/mosliu/webmonitor
 # whyour/qinglong: registry.cn-hangzhou.aliyuncs.com/mosliu/qinglong
-redis:latest: registry.cn-hangzhou.aliyuncs.com/mosliu/redis
-mysql:8.2.0: registry.cn-hangzhou.aliyuncs.com/mosliu/mysql
+# redis:latest: registry.cn-hangzhou.aliyuncs.com/mosliu/redis
+# mysql:8.2.0: registry.cn-hangzhou.aliyuncs.com/mosliu/mysql
 martialbe/one-api:latest: registry.cn-hangzhou.aliyuncs.com/mosliu/one-api
 
 
