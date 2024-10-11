@@ -21,7 +21,7 @@
 # mysql:8.2.0: registry.cn-hangzhou.aliyuncs.com/mosliu/mysql
 # martialbe/one-api: registry.cn-hangzhou.aliyuncs.com/mosliu/one-api
 # calciumion/new-api: registry.cn-hangzhou.aliyuncs.com/mosliu/new-api
-mongo:4.4.29: registry.cn-hangzhou.aliyuncs.com/l-x/mongo:4.4.29
+mongo:4.4.29: registry.cn-hangzhou.aliyuncs.com/mosliu/mongo:4.4.29
 
 
   
