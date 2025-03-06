@@ -20,8 +20,7 @@
 # redis:latest: registry.cn-hangzhou.aliyuncs.com/mosliu/redis
 # mysql:8.2.0: registry.cn-hangzhou.aliyuncs.com/mosliu/mysql
 # martialbe/one-api: registry.cn-hangzhou.aliyuncs.com/mosliu/one-api
-# calciumion/new-api:latest: registry.cn-hangzhou.aliyuncs.com/mosliu/new-api 
-calciumion/new-api: registry.cn-hangzhou.aliyuncs.com/mosliu/new-api 
-
+calciumion/new-api:latest: registry.cn-hangzhou.aliyuncs.com/mosliu/new-api 
+# calciumion/new-api: registry.cn-hangzhou.aliyuncs.com/mosliu/new-api 
 # mongo:4.4.29: registry.cn-hangzhou.aliyuncs.com/mosliu/mongo:4.4.29
 
